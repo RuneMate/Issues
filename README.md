@@ -1,3 +1,8 @@
+### This repository has been migrated to https://gitlab.com/runemate/community
+
+
+
+
 # Issues
 
 [Issue tracking](https://github.com/RuneMate/Issues/issues) for the [RuneMate](https://www.runemate.com) Client and API.
